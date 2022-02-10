@@ -3,15 +3,15 @@
 
 ## رابـط السـورس للتنـصيـب
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JMTHON-AR/jmthon)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/r00r0r/jmthon)
 
 ## شكـرا لكـم 
 
 
 ## المطـورين 
 
-[jmthon source](https://t.me/jmthon)
+[x : Texas source](https://t.me/ejejee)
 
-[MUHAMMAD](https://t.me/RR9R7)
+[Me](https://t.me/QooQoQ)
 
-[JASEM](https://t.me/SBB_B)
+[hansh](https://t.me/QccQcQ)
